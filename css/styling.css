@@ -197,12 +197,12 @@ transform: translateX(0);
 }
 @media screen and (max-width:600px)
 {
-  .single-product .product-img .product_icon
+  /* .single-product .product-img .product_icon
   {
     white-space: nowrap;
     margin-bottom:60%; 
     display: none;
-  }
+  } */
   .add-to-cart
   {
     display: unset;
