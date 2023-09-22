@@ -165,7 +165,6 @@ include 'navbar.php';
                         <a href="#" class="main_btn">Add to cart</a>
                     </div>
                 </div>
-
                 <div class="col-sm-6 mt-5 mt-lg-0">
                     <div class="row">
                         <div class="col">
